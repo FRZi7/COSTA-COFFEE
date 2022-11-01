@@ -1,0 +1,79 @@
+
+.navbar{
+ background-attachment: fixed;
+ 
+}
+
+#navbarNav ul li a{
+    color: white;
+    width: 75%;
+    font-weight:1000;
+    margin-left: 75px;
+    font-size: 25px
+    
+} 
+.front img{
+    width: 90%;
+    height: 100vh;
+    background-size: auto;
+    background-position: center;
+    margin-bottom: 20px;
+}
+
+#second{
+    margin-top: 70px;
+  
+}
+.css-ldt1pi {
+ margin: auto 0;
+ padding-top: 100px;
+ 
+}
+/*rows*/
+
+
+
+.css-ldt1pi h2{
+    font-weight: bold;
+    color: white
+}
+.css-ldt1pi p{
+    color: white;
+}
+.css-ldt1pi button{
+    border-radius: 50px;
+    height: 50px;
+    
+}
+.container{
+    margin-bottom:50px;
+}
+
+#footer{
+    padding:40px 80px;
+    background-color: maroon;
+    
+}
+
+#footer ul li{
+    color: white;
+    font-weight: bold;
+}
+#footer h3{
+    margin-top: 50px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+#copyright {
+    background-color: rgb(38, 66, 150);
+    padding: 20px;
+}
+#copyright h3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-left:25px;
+    color: white;
+    font-weight: bold;
+    margin-left: 60px;
+}
+
